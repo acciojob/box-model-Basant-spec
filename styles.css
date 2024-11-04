@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
- .circle-container {
+ .container {
     display: flex;
     justify-content: space-between;  /* Equal space between circles and container borders */
     align-items: center;
